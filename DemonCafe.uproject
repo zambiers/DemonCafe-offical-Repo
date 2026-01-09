@@ -24,16 +24,7 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
-		},
-		{
-			"Name": "NarrativeCommonUI",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/f1adaffd049b44cca254832b2beeb1b7"
-		},
-		{
-			"Name": "NarrativeInteraction",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/46d407c1917d4575bfc2a8bb1cb5185d"
 		}
+
 	]
 }
